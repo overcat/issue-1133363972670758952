@@ -1,0 +1,1 @@
+stellar-sdk @ git+https://github.com/StellarCN/py-stellar-base@10e60029af137c1700b400d23fd43814f44f6c43
